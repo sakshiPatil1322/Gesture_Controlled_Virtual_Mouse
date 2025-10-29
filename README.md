@@ -23,8 +23,6 @@ This project utilizes **MediaPipe**, **OpenCV**, and **PyAutoGUI** for gesture t
 - **Operating System:** Windows 10 or later  
 - **Python Version:** 3.6 – 3.8.5  
 - **Camera:** Built-in or external webcam  
-- **Microphone:** For voice command input  
-
 ---
 
 ## 🧩 Setup Instructions
