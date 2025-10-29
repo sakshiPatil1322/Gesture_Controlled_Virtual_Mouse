@@ -47,3 +47,4 @@ function getUserInput() {
         eel.getUserInput(msg);
     }
 }
+

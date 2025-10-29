@@ -541,4 +541,3 @@ class GestureController:
         cv2.destroyAllWindows()
         
         
-        
